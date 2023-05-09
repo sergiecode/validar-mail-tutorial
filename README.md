@@ -1,5 +1,5 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/validar-mail-tutorial/master/1.png)
-![enter image description here](https://raw.githubusercontent.com/sergiecode/validar-mail-tutorial/master/2.png)
+![Tutorial de como validar el mail con regex imagen 1](https://raw.githubusercontent.com/sergiecode/validar-mail-tutorial/master/1.png)
+![Tutorial de como validar el mail con regex imagen 2](https://raw.githubusercontent.com/sergiecode/validar-mail-tutorial/master/2.png)
 
 # Validación de correo electrónico en JavaScript
 
